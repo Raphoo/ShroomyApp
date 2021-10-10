@@ -1,2 +1,2 @@
 
-<iframe src="https://thunkable.site/w/RVsSR2UnE" height=0.9 width=0.5 title="Shroomy Web App"></iframe>
+<iframe src="https://thunkable.site/w/RVsSR2UnE" height=90% width=50% title="Shroomy Web App"></iframe>
